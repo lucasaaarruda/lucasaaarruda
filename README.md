@@ -1,3 +1,5 @@
+<img align="right" height="380" src="file:///C:/Users/lucas/OneDrive/Área%20de%20Trabalho/imgbin_github-computer-software-source-code-open-source-software-png.png">
+
 # Lucas Arruda
 Fascinado por entretenimento e tecnologia! Encontrei minha paixão pela programação por meio dos jogos e vídeo games. Meu primeiro contato direto com a programação foi por meio da Graduação onde tive contato com HTML, CSS e JavaScript. Atualmente estou me voltando para o Back-End por meio do Python.
 Estou em busca de uma nova oportunidade para me graduar em Engenharia de Software, além de Desenvolvedor Freelancer.
