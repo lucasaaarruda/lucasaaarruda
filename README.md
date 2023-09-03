@@ -28,8 +28,6 @@ Gosto muito de aprender e de leitura me mantendo em constante evolução e apren
 
 
 ## GitHub Stats:
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasaaarruda&layout=compact&bg_color=000&border_color=0E76A8&title_color=0E76A8&text_color=FFF)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasaaarruda&theme=transparent&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF&hide_title=true&hide=stars)
 
 
