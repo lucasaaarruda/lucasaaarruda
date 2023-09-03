@@ -23,10 +23,13 @@ Gosto muito de aprender e de leitura me mantendo em constante evolução e apren
 
 ## Meus Projetos:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=dio-lab-open-source-contribution&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0E76A8&text_color=FFF)](https://github.com/lucasaaarruda/dio-lab-open-source-contribution)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=dio-lab-open-source-contribution&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0E76A8&text_color=FFF)]([https://github.com/lucasaaarruda/dio-lab-open-source-contribution](https://github.com/lucasaaarruda/lucasaaarruda/tree/main))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=desafios_codigo-DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0E76A8&text_color=FFF)](https://github.com/lucasaaarruda/desafios_codigo-DIO)
+
 
 
 ## GitHub Stats:
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasaaarruda&layout=compact&bg_color=000&border_color=0E76A8&title_color=0E76A8&text_color=FFF)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasaaarruda&theme=transparent&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF&hide_title=true&hide=stars)
+
+
