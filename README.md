@@ -1,8 +1,9 @@
 # Lucas Arruda
-Fascinado por entretenimento e tecnologia! Encontrei minha paixão pela programação por meio dos jogos e vídeo games. Meu primeiro contato direto com a programação foi por meio da Graduação onde tive contato com HTML, CSS e JavaScript. Atualmente estou me voltando para o Back-End por meio do Python.
-Estou em busca de uma nova oportunidade para me graduar em Engenharia de Software, além de Desenvolvedor Freelancer.
-
-Gosto muito de aprender e de leitura me mantendo em constante evolução e aprendizado. Tenho como hobbies a leitura, o esporte e os jogos digitais.
+Fascinado por entretenimento e tecnologia! Encontrei minha paixão pela programação por meio da Internet, vendo códigos e querendo fazer parte deles.
+Meu primeiro contato com a programação foi por meio da Graduação onde tive contato direto com HTML, CSS, JavaScript e Java. Atualmente em transição de carreira, estou me voltando para o Back-End por meio do Python, além de conhecimentos como: Banco de Dados, Flask e outras tecnologias,
+Estou iniciando a Graduação em Engenharia de Software e buscando evoluir por meio de cursos.
+Gosto muito de estar sempre aprendendo coisas novas, me mantendo atualizado e em constante evolução não só no mercado de trabalho mas também na vida.
+Como hobbie tenho a leitura, os esportes e os jogos digitais.
 
 ## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucasaarruda/)
