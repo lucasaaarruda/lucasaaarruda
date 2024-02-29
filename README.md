@@ -1,8 +1,9 @@
 # Lucas Arruda
-Fascinado por entretenimento e tecnologia! Encontrei minha paixão pela programação por meio da Internet, vendo códigos e querendo fazer parte deles.
-Meu primeiro contato com a programação foi por meio da Graduação onde tive contato direto com HTML, CSS, JavaScript e Java. Atualmente em transição de carreira, estou me voltando para o Back-End por meio do Python, além de conhecimentos como: Banco de Dados, Flask e outras tecnologias,
-Estou iniciando a Graduação em Engenharia de Software e buscando evoluir por meio de cursos.
-Gosto muito de estar sempre aprendendo coisas novas, me mantendo atualizado e em constante evolução não só no mercado de trabalho mas também na vida.
+Fascinado por tecnologia, entretenimento e carros! Encontrei minha paixão pela programação por meio da Internet, vendo códigos e querendo fazer parte deles.  
+Minha primeira vez com a programação foi por meio da Graduação onde tive contato direto com HTML, CSS, JavaScript e Java.  
+Atualmente, em transição de carreira, estou me voltando para o Back-End por meio do Python, tenho também conhecimentos como: Flask, Django, SQL e entre outras tecnologias.  
+Estou iniciando em Análise e Desenvolvimento de Sistemas e buscando evoluir também por meio de cursos.  
+Gosto muito de estar sempre aprendendo coisas novas, me mantendo atualizado e em constante evolução, não só no mercado de trabalho, mas, também na vida.  
 Como hobbie tenho a leitura, os esportes e os jogos digitais.
 
 ## Connect With Me:
