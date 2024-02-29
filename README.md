@@ -12,22 +12,19 @@ Como hobbie tenho a leitura, os esportes e os jogos digitais.
 [![E-Mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=0E76A8)](https://lucasarruda26@hotmail.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://www.instagram.com/lucasaaarruda/)
 
-
 ## Skills:
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)  
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
-## Meus Projetos:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=dio-lab-open-source-contribution&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0E76A8&text_color=FFF)](https://github.com/lucasaaarruda/dio-lab-open-source-contribution)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=desafios_codigo-DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0E76A8&text_color=FFF)](https://github.com/lucasaaarruda/desafios_codigo-DIO)
-
-
+## Alguns Projetos:
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=alura_space&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0E76A8&text_color=FFF)](https://github.com/lucasaaarruda/alura_space)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=api-cliente&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=0E76A8&text_color=FFF)](https://github.com/lucasaaarruda/api-cliente)
 
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasaaarruda&theme=transparent&bg_color=000&border_color=0E76A8&show_icons=true&icon_color=0E76A8&title_color=0E76A8&text_color=FFF&hide_title=true&hide=stars)
