@@ -1,10 +1,13 @@
-# Lucas Arruda
-Fascinado por tecnologia, entretenimento e carros! Encontrei minha paixão pela programação por meio da Internet, vendo códigos e querendo fazer parte deles.  
-Minha primeira vez com a programação foi por meio da Graduação onde tive contato direto com HTML, CSS, JavaScript e Java.  
-Atualmente, em transição de carreira, estou me voltando para o Back-End por meio do Python, tenho também conhecimentos como: Flask, Django, SQL e entre outras tecnologias.  
-Estou iniciando em Análise e Desenvolvimento de Sistemas e buscando evoluir também por meio de cursos.  
-Gosto muito de estar sempre aprendendo coisas novas, me mantendo atualizado e em constante evolução, não só no mercado de trabalho, mas, também na vida.  
-Como hobbie tenho a leitura, os esportes e os jogos digitais.
+# Lucas Ribeiro Arruda
+Fascinado por tecnologia e entretenimento! Encontrei minha paixão pela programação por meio da Internet, vendo códigos, entendendo o que eles faziam e querendo fazer parte deles.
+Minha primeira vez com a programação foi por meio da primeira graduação onde tive contato direto com HTML, CSS, JavaScript e Java. Além disso, na atual graduação estou tendo um grande conhecimento em C.
+Atualmente, estou me voltando para o Back-End.
+Tenho conhecimento sólido em Python e em alguns frameworks como: Flask, Django e Pandas.
+Estou cursando Análise e Desenvolvimento de Sistemas e busco sempre evoluir também por meio de cursos.
+Gosto muito de estar sempre aprendendo coisas novas, me mantendo atualizado e em constante evolução, não só no mercado de trabalho, mas também, como pessoa..  
+Tenho como hobbie a leitura, os esportes e os jogos digitais.
+
+Obrigado por visitar meu perfil !
 
 ## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucasaarruda/)
@@ -14,6 +17,7 @@ Como hobbie tenho a leitura, os esportes e os jogos digitais.
 
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)](https://github.com/lucasaaarruda/api-cliente)
+[![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=C)](https://github.com/lucasaaarruda/listasFaculdadeC)
 [![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)](https://github.com/lucasaaarruda/api-cliente)
 [![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=Flask)](https://flask.palletsprojects.com/en/3.0.x/)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)](https://github.com/lucasaaarruda/jogo-do-numero-secreto)
