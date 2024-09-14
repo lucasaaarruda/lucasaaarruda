@@ -1,13 +1,9 @@
 # Lucas Ribeiro Arruda
-Fascinado por tecnologia e entretenimento! Encontrei minha paixão pela programação por meio da Internet, vendo códigos, entendendo o que eles faziam e querendo fazer parte deles.
-Minha primeira vez com a programação foi por meio da primeira graduação onde tive contato direto com HTML, CSS, JavaScript e Java. Além disso, na atual graduação estou tendo um grande conhecimento em C.
-Atualmente, estou me voltando para o Back-End.
-Tenho conhecimento sólido em Python e em alguns frameworks como: Flask, Django e Pandas.
-Estou cursando Análise e Desenvolvimento de Sistemas e busco sempre evoluir também por meio de cursos.
-Gosto muito de estar sempre aprendendo coisas novas, me mantendo atualizado e em constante evolução, não só no mercado de trabalho, mas também, como pessoa..  
-Tenho como hobbie a leitura, os esportes e os jogos digitais.
+🌟 Sou apaixonado por tecnologia e entretenimento, com uma jornada que começou com a curiosidade sobre códigos e se transformou em uma carreira apaixonante em Back-End. Minha experiência inclui Python, C, Java, HTML, CSS e JavaScript, além de um sólido conhecimento em frameworks como Flask, Django e Pandas.
 
-Obrigado por visitar meu perfil !
+🎓 Atualmente, estou aprofundando meus conhecimentos em C e Python, e buscando constantemente evoluir através de projetos desafiadores e aprendizado contínuo.
+
+🚀 Quando não estou codificando, você me encontra mergulhado em um livro, praticando esportes ou explorando jogos.
 
 ## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucasaarruda/)
