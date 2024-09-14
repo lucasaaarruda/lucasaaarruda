@@ -1,7 +1,7 @@
 # Lucas Ribeiro Arruda
 
 🌟 **Apaixonado por Tecnologia e Entretenimento**  
-Minha jornada começou com a curiosidade sobre códigos e se transformou em uma carreira em Back-End. Tenho experiência sólida com Python, C, Java, HTML, CSS e JavaScript, e sou proficiente em frameworks como Flask, Django e Pandas.
+Minha jornada começou com a curiosidade sobre códigos e se transformou em uma carreira em Back-End. Tenho conhecimento sólido com Python, C, Java, HTML, CSS e JavaScript, e sou proficiente em frameworks como Flask, Django e Pandas.
 
 🎓 **Atualmente**  
 Estou aprofundando meus conhecimentos em C e Python, sempre em busca de projetos desafiadores e aprendizado contínuo.
