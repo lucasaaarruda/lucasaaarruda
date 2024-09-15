@@ -9,6 +9,10 @@ Estou aprofundando meus conhecimentos em C e Python, sempre em busca de projetos
 🚀 **Fora do Código**  
 Quando não estou codificando, você pode me encontrar mergulhado em um livro, praticando esportes ou explorando jogos.
 
+<p align="center">
+  <img src="https://github.com/lucasaaarruda/lucasaaarruda/blob/main/octowhite.png" alt="Lucas Arruda" width="300">
+</p>
+
 ## Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasaarruda/)
