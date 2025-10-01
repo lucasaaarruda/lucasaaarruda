@@ -32,7 +32,7 @@ Quando não estou codificando, você pode me encontrar mergulhado em um livro, p
 
 ## Projetos Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=organizador_de_presentes&bg_color=1E1E1E&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/lucasaaarruda/organizador_de_presentes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=gestao-usuarios&bg_color=1E1E1E&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/lucasaaarruda/gestao-usuarios)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=automacao_autodoc&bg_color=1E1E1E&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/lucasaaarruda/automacao_autodoc)
 
 ## Estatísticas do GitHub
