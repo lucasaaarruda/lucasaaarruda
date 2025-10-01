@@ -1,7 +1,7 @@
 # Lucas Ribeiro Arruda
 
 🌟 **Apaixonado por Tecnologia e Entretenimento**  
-Minha jornada começou com a curiosidade sobre códigos e se transformou em uma carreira em Back-End. Tenho conhecimento sólido com Python, C, Java, HTML, CSS e JavaScript, e sou proficiente em frameworks como Flask, Django e Pandas.
+Minha jornada começou com a curiosidade sobre códigos e se transformou em uma carreira em Back-End. Tenho conhecimento sólido com Python, Flask, Django, APIs e RPAs. Conhecimento básico em C, Java, HTML, CSS e JavaScript. Além disso, tenho a curiosidade de conhecer e aprender diversas vertentes da programação
 
 🎓 **Atualmente**  
 Estou aprofundando meus conhecimentos em C e Python, sempre em busca de projetos desafiadores e aprendizado contínuo.
@@ -32,8 +32,8 @@ Quando não estou codificando, você pode me encontrar mergulhado em um livro, p
 
 ## Projetos Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=calculadora_django&bg_color=1E1E1E&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/lucasaaarruda/calculadora_django)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=alura_space&bg_color=1E1E1E&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/lucasaaarruda/alura_space)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=organizador_de_presentes&bg_color=1E1E1E&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/lucasaaarruda/organizador_de_presentes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasaaarruda&repo=automacao_autodoc&bg_color=1E1E1E&border_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/lucasaaarruda/automacao_autodoc)
 
 ## Estatísticas do GitHub
 
