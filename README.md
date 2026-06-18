@@ -24,13 +24,13 @@ Desenvolvedor Backend com foco em Python, construindo APIs REST robustas e siste
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | [saas-salao](https://github.com/lucasaaarruda/saas-salao) | SaaS completo para salões de beleza com booking, notificações e autenticação JWT | FastAPI · PostgreSQL · Redis · Celery · Docker |
-| [drf-escola-api](https://github.com/lucasaaarruda/drf-escola-api) | API REST completa de gestão escolar com versionamento e controle de permissões | Django REST Framework |
-| [api-cliente](https://github.com/lucasaaarruda/api-cliente) | API de cadastro e gerenciamento de clientes com autenticação e CRUD | Django · PostgreSQL |
-| [automacao-autodoc](https://github.com/lucasaaarruda/automacao-autodoc) | Automação Python para download em massa de arquivos — desenvolvida em estágio | Python |
+| [drf-escola-api](https://github.com/lucasaaarruda/drf-escola-api) | REST API de gestão escolar com Django REST Framework — autenticação, CRUD completo e PostgreSQL | Django REST Framework |
+| [api-cliente](https://github.com/lucasaaarruda/api-cliente) | REST API com Django para cadastro e gestão de clientes — autenticação JWT, paginação e filtros avançados | Django · PostgreSQL |
+| [automacao-autodoc](https://github.com/lucasaaarruda/automacao-autodoc) | Automação RPA com Python, Selenium e PyAutoGUI para download e processamento em massa de documentos | Python |
 
 ---
 
 ### 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasaarruda)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasribeiro.arruda@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasaaarruda)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasaarruda@gmail.com)
